@@ -1,6 +1,9 @@
 # Gladieux
 Materials for the training school
 
+Here is the link to download SNP file:
+https://drive.google.com/file/d/0ByM7GZKRxL-MSE0tbHBXTjFVVmM/view?usp=sharing
+
 Here are the links to the course materials:
 Data_and_Scripts: https://drive.google.com/file/d/0ByM7GZKRxL-MTHRHaENqLUtnRVE/view?usp=sharing
 
