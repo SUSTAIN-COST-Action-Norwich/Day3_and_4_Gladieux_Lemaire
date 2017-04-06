@@ -1,4 +1,4 @@
-# Day3and4_Gladieux_Lemaire
+# Day3_and_4_Gladieux_Lemaire
 Materials for the training school
 
 Link to the course materials:
